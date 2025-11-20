@@ -449,6 +449,13 @@ O design segue o padrão de jornal profissional:
 
 ---
 
+### 🎓 Sobre o Desafio e a Origem do Projeto
+
+Este projeto foi desenvolvido como entrega final do **Build Your First Copilot Challenge (Foundry Edition)**, proposto no curso **Azure Frontier Girls**, ministrado pela **[WoMakersCode](https://www.maismulheres.tech/)**. O desafio incentivava a criação de soluções reais utilizando o **Azure AI Foundry**, explorando agentes, processamento inteligente e automações práticas.
+
+A atividade oficial do challenge pode ser consultada no repositório:
+**[https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge)**
+
 
 ## 📄 Licença
 
