@@ -7,11 +7,12 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/vegan-news-curator)
 
-**Uma plataforma inteligente de curação de notícias sobre veganismo, vegetarianismo e sustentabilidade alimentar, potenciada por IA do Azure.**
+**Uma plataforma inteligente de curadoria de notícias sobre veganismo, vegetarianismo e sustentabilidade alimentar, potenciada por IA do Azure AI Foundry.**
 
 ## 📋 Visão Geral
 
-O **Vegan News Curator** é uma aplicação end-to-end que coleta notícias sobre veganismo de múltiplas fontes globais, processa-as através de um agente de IA especializado no Azure, e distribui uma newsletter profissional por email em design de jornal.
+O **Vegan News Curator** é uma plataforma inteligente de curadoria de notícias sobre veganismo, vegetarianismo e sustentabilidade alimentar, potenciada por **IA do Azure AI Foundry**.
+A aplicação utiliza um **agente GPT integrado no AI Foundry** para processar e analisar o conteúdo de múltiplas fontes globais, gerando uma **newsletter profissional em design de jornal**, distribuída automaticamente por email.
 
 ### ✨ Características Principais
 
@@ -45,6 +46,18 @@ Assista à execução do **Agent AI Vegan News** em ação:
 Confira o passo a passo do projeto com prints:
 
 [Visualizar PDF com capturas de tela](docs/capturas_de_tela.pdf)
+
+---
+
+### 🌱 Por que criar o Vegan News?
+Com o aumento do interesse em veganismo e alimentação sustentável, acompanhar notícias confiáveis de diferentes fontes tornou-se um desafio. O **Vegan News Curator** surge para centralizar e filtrar conteúdos relevantes, trazendo apenas informações verificadas sobre saúde, mercado, sustentabilidade e inovação plant-based.
+
+---
+
+### 💡 Objetivo da plataforma
+A ideia é oferecer uma **newsletter semanal de alta qualidade**, utilizando inteligência artificial para traduzir, organizar e formatar notícias de forma clara e profissional. Assim, leitores recebem insights confiáveis e atualizados, economizando tempo e promovendo escolhas mais conscientes.
+
+---
 
 ## 🚀 Início Rápido
 
