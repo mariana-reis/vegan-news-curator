@@ -44,7 +44,7 @@ Assista à execução do **Agent AI Vegan News** em ação:
 
 Confira o passo a passo do projeto com prints:
 
-[Visualizar PDF com capturas de tela](docs/capturas_de_telas.pdf)
+[Visualizar PDF com capturas de tela](docs/capturas_de_tela.pdf)
 
 ## 🚀 Início Rápido
 
