@@ -288,7 +288,7 @@ vegan-news-curator/
 ├── sender.py                 # Envio de emails SMTP
 ├── email_template.py         # Template HTML do email
 ├── main.py                   # Aplicação principal
-├── requirements.txt          # Dependências do projeto
+├── pyproject.toml            # Dependências do projeto
 ├── .env.example              # Exemplo de variáveis de ambiente
 ├── README.md                 # Este arquivo
 ├── docs/
