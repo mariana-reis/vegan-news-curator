@@ -41,14 +41,6 @@ Assista à execução do **Agent AI Vegan News** em ação:
 
 ---
 
-### 📄 Capturas de Tela do Projeto
-
-Confira o passo a passo do projeto com prints:
-
-[Visualizar PDF com capturas de tela](docs/capturas_de_tela.pdf)
-
----
-
 ### 🌱 Por que criar o Vegan News?
 Com o aumento do interesse em veganismo e alimentação sustentável, acompanhar notícias confiáveis de diferentes fontes tornou-se um desafio. O **Vegan News Curator** surge para centralizar e filtrar conteúdos relevantes, trazendo apenas informações verificadas sobre saúde, mercado, sustentabilidade e inovação plant-based.
 
